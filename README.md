@@ -1,5 +1,8 @@
 # bmuse
 
+### Hosted SIte URL
+https://touchcast-demo-dhairya.netlify.app/
+
 ## Project setup
 ```
 yarn install
